@@ -1,0 +1,6 @@
+search:
+  max_results: 5
+
+download:
+  timeout: 10
+  output_dir: outputs/downloads
