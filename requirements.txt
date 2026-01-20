@@ -1,0 +1,6 @@
+```text
+requests
+beautifulsoup4
+duckduckgo-search
+pyyaml
+tqdm
